@@ -12,15 +12,15 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "23664819",
+            "description": "23537514",
             "required": true
         },
         "API_HASH": {
-            "description": "3853f97c662d5d08cee5f0d07361361e",
+            "description": "c5ec016af7d2cb637278b715f4f5a389",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter your bot token",
+            "description": "6409288634:AAFTd9TWLj8g6bHTqzdQXxIAWeZ-9ZQ_LXE",
             "required": true
         }
     },
